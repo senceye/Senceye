@@ -1,4 +1,4 @@
-(https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/real_senceye)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/real_senceye)
 
 
 ## Hello there 👋
@@ -21,5 +21,3 @@ In my spare time I am also creating builds for Minecraft Servers.
 - 🔓 Network Game Center
 
 ---
-
-![Senceye's github stats](https://github-readme-stats.vercel.app/api?username=senceye&show_icons=true&hide_border=true)
