@@ -9,9 +9,9 @@ In my spare time I am also creating builds for Minecraft Servers.
 
 **Working at:**
 
-- **Chief Executive Officer** at `GXS` 👑
-- **Chief Executive Officer** at `BearMC` 👑
-- **Project Manager** at `Genesis Minecraft` 👑
-- **Server Manager** at `Genesis Discord` 👑
+- 📯 **Chief Executive Officer** at `GXS`
+- 🎁 **Chief Executive Officer** at `BearMC`
+- 📐 **Project Manager** at `Genesis Minecraft`
+- 📈 **Server Manager** at `Genesis Discord`
 
 ---
