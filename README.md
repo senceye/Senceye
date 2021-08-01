@@ -14,7 +14,8 @@ In my spare time I am also creating builds for Minecraft Servers.
 - 📈 **Server Manager** at `Genesis Discord`
 
 **Collaborate with:**
-- `CraftMC Minecraft Server`
-- `HypeMC Minecraft Server`
+- CraftMC Network
+- HypeMC Network
+- Network Game Center
 
 ---
