@@ -19,3 +19,5 @@ In my spare time I am also creating builds for Minecraft Servers.
 - 🔓 Network Game Center
 
 ---
+
+![Senceye's github stats](https://github-readme-stats.vercel.app/api?username=senceye&show_icons=true&hide_border=true)
