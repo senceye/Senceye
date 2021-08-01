@@ -26,4 +26,5 @@ In my spare time I am also creating builds for Minecraft Servers.
 - Discord: Senceye#8031
 - Mail: business@senceye.com
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=senceye&hide=["issues"]&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=senceye&show_icons=true&hide_border=true&theme=material-palenight&count_private=true"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senceye&hide_border=true&theme=material-palenight">
