@@ -21,10 +21,13 @@ In my spare time I am also creating builds for Minecraft Servers.
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api?username=senceye&show_icons=true&hide_border=true&theme=material-palenight&count_private=true"><br>
+
+---
+
 **Contact me:**
 
 - Discord: Senceye#8031
 - Mail: business@senceye.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=senceye&show_icons=true&hide_border=true&theme=material-palenight&count_private=true"><br>
 
