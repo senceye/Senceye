@@ -21,3 +21,9 @@ In my spare time I am also creating builds for Minecraft Servers.
 
 ---
 
+**Contact me:**
+
+- Discord: Senceye#8031
+- Mail: business@senceye.com
+
+
