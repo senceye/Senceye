@@ -2,7 +2,7 @@
 
 ## Hello there <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">
 
-I am **Senceye**. Currently, I am working on many projects related to object oriented programming. Every day I try to gain new experience while creating projects.
+I am **Jakub**. Currently, I am working on many projects related to object oriented programming. Every day I try to gain new experience while creating projects.
 I am currently working with the following databases: **MongoDB**, **Redis**, **PostgreSQL**. I work with many well-known Polish companies and game servers. 
 In my spare time I am also creating builds for Minecraft Servers. 
 
