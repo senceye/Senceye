@@ -9,10 +9,10 @@ In my spare time I am also creating builds for Minecraft Servers.
 ---
 
 **Working at:**
-- 📯 **Chief Executive Officer** at `GXS`
-- 🎁 **Chief Executive Officer** at `BearMC`
-- 📐 **Project Manager** at `Genesis Minecraft`
-- 📈 **Server Manager** at `Genesis Discord`
+- 📯 **Chief Executive Officer** at `GXS` www.senceye.com
+- 🎁 **Chief Executive Officer** at `BearMC` www.bearmc.pl
+- 📐 **Project Manager** at `Genesis Minecraft`  www.genesis-zone.com
+- 📈 **Server Manager** at `Genesis Discord`  www.genesis-zone.com
 
 **Collaborate with:**
 - 🔓 CraftMC Network
