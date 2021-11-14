@@ -14,11 +14,6 @@ In my spare time I am also creating builds for Minecraft Servers.
 - 📐 **Project Manager** at `Genesis Minecraft`  www.genesis-zone.com
 - 📈 **Server Manager** at `Genesis Discord`  www.genesis-zone.com
 
-**Collaborate with:**
-- 🔓 CraftMC Network https://craftmc.pl/
-- 🔓 HypeMC Network https://hypemc.pl/
-- 🔓 Network Game Center https://ngcmc.net/
-
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=senceye&show_icons=true&hide_border=true&theme=material-palenight&count_private=true"><br>
