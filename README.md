@@ -1,21 +1,18 @@
-<img align="center" alt="GIF" height="100px" width="200px" src="https://i.imgur.com/REl9lfv.png"/>
-
-<h3 align="center">Hello there <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px"></h3>
-
----
+<img align="center" max-width="20%" max-height="20%" src="https://i.imgur.com/REl9lfv.png"/>
 
 I am **Jakub**. Currently, I am working on many projects related to object oriented programming. Every day I try to gain new experience while creating projects.
 I am currently working with the following databases: **MongoDB**, **Redis**, **PostgreSQL**. I work with many well-known Polish companies and game servers. 
-In my spare time I am also creating builds for Minecraft Servers. 
+In my spare time I am also creating builds for Minecraft Servers.
 
 ---
 
-**Working at:**
+<h5 align="center">
 - 📯 **Chief Executive Officer** at `GXS` www.senceye.com
 - 🎁 **Chief Executive Officer** at `BearMC` www.bearmc.pl
 - 📐 **Project Manager** at `Genesis Minecraft`  www.genesis-zone.com
 - 📈 **Server Manager** at `Genesis Discord`  www.genesis-zone.com
-
+</h5>
+  
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=senceye&show_icons=true&hide_border=true&theme=material-palenight&count_private=true"><br>
