@@ -1,5 +1,3 @@
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/real_senceye)
-
 <h3 align="center">Hello there <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px"></h3>
 
 ---
@@ -27,15 +25,8 @@ In my spare time I am also creating builds for Minecraft Servers.
 
 ---
 
-<p align="center">
-  ![Spotify listening](https://spotify-recently-played-readme.vercel.app/api?user=tkth4248sdwveut8sktfwd1z2)
-</p>
+![Spotify listening](https://spotify-recently-played-readme.vercel.app/api?user=tkth4248sdwveut8sktfwd1z2)
 
----
 
-**Contact me:**
-
-- Discord: Senceye#8031
-- Mail: business@senceye.com
 
 
