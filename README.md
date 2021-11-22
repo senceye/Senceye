@@ -1,3 +1,5 @@
+<img align="center" alt="GIF" src="https://i.imgur.com/REl9lfv.png"/>
+
 <h3 align="center">Hello there <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px"></h3>
 
 ---
