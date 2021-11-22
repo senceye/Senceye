@@ -20,13 +20,5 @@ In my spare time I am also creating builds for Minecraft Servers.
 
 ---
 
-**You can find my portfolio at:**
-- https://portfolio.senceye.com/
-
----
-
-![Spotify listening](https://spotify-recently-played-readme.vercel.app/api?user=tkth4248sdwveut8sktfwd1z2)
-
-
 
 
