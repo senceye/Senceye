@@ -25,6 +25,10 @@ In my spare time I am also creating builds for Minecraft Servers.
 
 ---
 
+![Spotify listening](https://spotify-recently-played-readme.vercel.app/api?user=Senceye)
+
+---
+
 **Contact me:**
 
 - Discord: Senceye#8031
