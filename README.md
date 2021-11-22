@@ -25,7 +25,7 @@ In my spare time I am also creating builds for Minecraft Servers.
 
 ---
 
-![Spotify listening](https://spotify-recently-played-readme.vercel.app/api?user=Senceye)
+![Spotify listening](https://spotify-recently-played-readme.vercel.app/api?user=senceye)
 
 ---
 
