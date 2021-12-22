@@ -7,9 +7,7 @@ In my spare time I am also creating builds for Minecraft Servers.
 ---
 
 <h5 align="center">
-  
- Chief Executive Officer at GXS www.gxstudio.pl <br>
- Chief Executive Officer at BearMC www.bearmc.pl <br>
+
  Project Manager at Genesis Minecraft www.genesis-zone.com <br>
  Server Manager at Genesis Discord www.genesis-zone.com <br>
   
