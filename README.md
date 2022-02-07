@@ -8,7 +8,7 @@ In my spare time I am also creating builds for Minecraft Servers.
 
 <h5 align="center">
 
- Project Manager at Genesis Minecraft www.genesis-zone.com <br>
+ Project Manager at Genesis Minecraft www.genesismc.pl <br>
  Server Manager at Genesis Discord www.genesis-zone.com <br>
   
 </h5>
