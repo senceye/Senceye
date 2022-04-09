@@ -17,8 +17,5 @@ In my spare time I am also creating builds for Minecraft Servers.
 
 <img src="https://github-readme-stats.vercel.app/api?username=senceye&show_icons=true&hide_border=true&theme=material-palenight&count_private=true"><br>
 
-[![statystyki wakatime willianroda](https://github-readme-stats.vercel.app/api/wakatime ?username=Senceye )](https://github.com/anuraghazra/github-readme-stats)
-
-
 ---
 
