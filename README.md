@@ -15,7 +15,7 @@ In my spare time I am also creating builds for Minecraft Servers.
   
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tkth4248sdwveut8sktfwd1z2&count=10)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tkth4248sdwveut8sktfwd1z2&count=5)
 
 
 ---
