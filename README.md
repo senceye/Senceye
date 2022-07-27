@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <hr>
 
-<h3 align="left">Reach me out:</h3>
+<h3 align="left">Contact me: 📨</h3>
 <p align="left">
 <a href="https://www.behance.net/senceye" target="blank"><img align="center" src="https://imgur.com/ochvbPB.png" alt="senceye" height="30" width="30" /></a>
 <a href="https://twitter.com/real_senceye" target="blank"><img align="center" src="https://imgur.com/GVRvbMJ.png" alt="real_senceye" height="30" width="30" /></a>
@@ -31,5 +31,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <h1></h1>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support me: 🪙</h3>
 <p><a href="https://ko-fi.com/senceye"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="senceye" /></a></p><br><br>
