@@ -26,9 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 
-<a>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senceye&show_icons=true&locale=en&theme=react&border_radius=10&hide_border=true&bg_color=282b30" alt="senceye"&langs_count=3 />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senceye&layout=compact&theme=react&hide_border=true&bg_color=282b30)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senceye&show_icons=true&locale=en&theme=react&border_radius=10&hide_border=true&bg_color=282b30" alt="senceye" /></p>
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/810482215552679977?animated=true&hideTimestamp=true&borderRadius=10px)
