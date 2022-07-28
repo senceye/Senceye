@@ -25,6 +25,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a href="https://discord.gg/Senceye#0420" target="blank"><img align="center" src="https://imgur.com/UFKi8sg.png" alt="Senceye#0420" height="30" width="30" /></a>
 </p>
 
+
+<a>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senceye&show_icons=true&locale=en&theme=react&border_radius=10&hide_border=true&bg_color=282b30" alt="senceye"&langs_count=3 />
+</a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senceye&show_icons=true&locale=en&theme=react&border_radius=10&hide_border=true&bg_color=282b30" alt="senceye" /></p>
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/810482215552679977?animated=true&hideTimestamp=true&borderRadius=10px)
